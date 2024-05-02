@@ -1,6 +1,6 @@
 # Nike Landing Page
 
-### [Live Site (Vercel)](https://nike-landing-page.vercel.app/)
+### [Live Site (Vercel)](https://nike-landing-page-ui.vercel.app/)
 
 ## Available Scripts
 
@@ -51,6 +51,6 @@ Your app is ready to be deployed!
 ### Preview (Mobile UI)
 <table>
     <tr>
-        <td><img src="" alt="Web UI" width="340px"></td>
+        <td><img src="https://github.com/chayan-1906/nike-landing-page-ui/assets/82430454/bfb57a91-ab8c-4c8f-af3f-9b2f3cd36caf" alt="Web UI" width="340px"></td>
     </tr>
 </table>
